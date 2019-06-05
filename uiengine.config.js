@@ -49,5 +49,13 @@ module.exports = {
       L: 992,
       XL: 1200
     }
+  },
+
+  browserSync: {
+    server: {
+      routes: {
+        "/static": "./static"
+      }
+    }
   }
 }
