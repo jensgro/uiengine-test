@@ -2,6 +2,8 @@
 
 Im Unterordner "uiengine" befindet sich die Doku [zu diesem Tool](https://github.com/dennisreimann/uiengine). 
 
+Zum Testzeitpunkt (Juni 2019) war die Version 2.2.0 aktuell. Ende 2021 sind wir bei Version 3.3.0.
+
 ## Installation
 
 Dieses Projekt als ZIP herunterladen oder per git clonen, dann auf der obersten Ebene des Projekts ein einfaches Installationskommando ausführen:
